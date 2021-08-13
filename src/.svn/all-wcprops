@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/damas/!svn/ver/337/Development/Software/Simurotor/src
+END
+HalfWing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/damas/!svn/ver/334/Development/Software/Simurotor/src/HalfWing.cpp
+END
+Fuselage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Fuselage.h
+END
+Aircraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Aircraft.h
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/damas/!svn/ver/336/Development/Software/Simurotor/src/Utils.cpp
+END
+IndividualElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/damas/!svn/ver/317/Development/Software/Simurotor/src/IndividualElement.cpp
+END
+HalfWing.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/damas/!svn/ver/337/Development/Software/Simurotor/src/HalfWing.h
+END
+Wing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/damas/!svn/ver/336/Development/Software/Simurotor/src/Wing.cpp
+END
+Rotor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Rotor.cpp
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/damas/!svn/ver/336/Development/Software/Simurotor/src/Utils.h
+END
+IndividualElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damas/!svn/ver/337/Development/Software/Simurotor/src/IndividualElement.h
+END
+AtmosphericConditions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/damas/!svn/ver/317/Development/Software/Simurotor/src/AtmosphericConditions.cpp
+END
+Wing.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Wing.h
+END
+Rotor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Rotor.h
+END
+CenterOfGravity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damas/!svn/ver/336/Development/Software/Simurotor/src/CenterOfGravity.cpp
+END
+Constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/damas/!svn/ver/317/Development/Software/Simurotor/src/Constants.cpp
+END
+AtmosphericConditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/damas/!svn/ver/337/Development/Software/Simurotor/src/AtmosphericConditions.h
+END
+Simulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/damas/!svn/ver/336/Development/Software/Simurotor/src/Simulator.cpp
+END
+CenterOfGravity.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damas/!svn/ver/337/Development/Software/Simurotor/src/CenterOfGravity.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Constants.h
+END
+DegreeOfFreedom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damas/!svn/ver/337/Development/Software/Simurotor/src/DegreeOfFreedom.cpp
+END
+AircraftFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/damas/!svn/ver/337/Development/Software/Simurotor/src/AircraftFactory.cpp
+END
+Simulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/damas/!svn/ver/316/Development/Software/Simurotor/src/Simulator.h
+END
+DegreeOfFreedom.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damas/!svn/ver/337/Development/Software/Simurotor/src/DegreeOfFreedom.h
+END
+ControlRigging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/damas/!svn/ver/337/Development/Software/Simurotor/src/ControlRigging.cpp
+END
+AircraftFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/damas/!svn/ver/337/Development/Software/Simurotor/src/AircraftFactory.h
+END
+Fuselage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/damas/!svn/ver/321/Development/Software/Simurotor/src/Fuselage.cpp
+END
+Aircraft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/damas/!svn/ver/337/Development/Software/Simurotor/src/Aircraft.cpp
+END
+ControlRigging.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/damas/!svn/ver/337/Development/Software/Simurotor/src/ControlRigging.h
+END
